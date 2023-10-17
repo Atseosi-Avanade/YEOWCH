@@ -19,9 +19,9 @@ $ cd YEOWCH
 ~~~
 
 ## WHAT YOU SHOULD SEE WHEN YOU CLONE 
-![Image of a cat in a hole](https://imgur.com/26mqEqr)
+
 ---
-![Cat](https://imgur.com/26mqEqr)
+![Image of a cat in a hole](https://imgur.com/26mqEqr.jpeg)
 ---
 More can be found at [image website](https://www.imgur.com)
 ## WHY CLONE THIS REPO 
